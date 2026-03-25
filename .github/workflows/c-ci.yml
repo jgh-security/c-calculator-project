@@ -1,4 +1,4 @@
-\name: C Calculator CI/CD
+name: C Calculator CI/CD
 
 on:
   push:
